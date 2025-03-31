@@ -5,10 +5,14 @@
 </div>
 
 Este projeto é parte do módulo de **Sintaxe Java** da formação **Java Developer** da Dio. O objetivo é colocar em prática os conhecimentos básicos de sintaxe, tipos primitivos, entrada de dados via terminal, e concatenação de Strings.
+
 ---
+
 ##  Desafio proposto
 Criar um programa simples que simula a abertura de uma conta bancária, recebendo os dados do usuário pelo terminal e exibindo uma mensagem formatada ao final.
+
 ---
+
 ## 📌 Requisitos
 
 O programa deve:
