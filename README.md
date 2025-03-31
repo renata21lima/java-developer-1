@@ -1,6 +1,7 @@
 # Desafio: Conta Banco - Java Developer DIO
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="java logo"  />
-  <img width="12" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="java logo" />
+</div>
 Este projeto é parte do módulo de **Sintaxe Java** da formação **Java Developer** da [DIO](https://www.dio.me/). O objetivo é colocar em prática os conhecimentos básicos de sintaxe, tipos primitivos, entrada de dados via terminal, e concatenação de Strings.
 ---
 ##  Desafio proposto
