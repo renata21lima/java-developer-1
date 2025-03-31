@@ -1,8 +1,10 @@
 # Desafio: Conta Banco - Java Developer DIO
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="java logo" />
 </div>
-Este projeto é parte do módulo de **Sintaxe Java** da formação **Java Developer** da [DIO](https://www.dio.me/). O objetivo é colocar em prática os conhecimentos básicos de sintaxe, tipos primitivos, entrada de dados via terminal, e concatenação de Strings.
+
+Este projeto é parte do módulo de **Sintaxe Java** da formação **Java Developer** da Dio. O objetivo é colocar em prática os conhecimentos básicos de sintaxe, tipos primitivos, entrada de dados via terminal, e concatenação de Strings.
 ---
 ##  Desafio proposto
 Criar um programa simples que simula a abertura de uma conta bancária, recebendo os dados do usuário pelo terminal e exibindo uma mensagem formatada ao final.
